@@ -1,5 +1,4 @@
-abcd this is change done by geeta
-This is second change done by geeta
+
 pipeline {
 agent {
 label {
